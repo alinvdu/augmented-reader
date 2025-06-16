@@ -1,0 +1,16 @@
+### Welcome to SelfAI open-sourced dataset for patient-therapist conversation + psychology knowledge + philosophy chats.
+- This dataset is a mixture of other datasets that are open sourced for patient-therapist conversation, psychology and philosophy.
+- It includes post-processing such as:
+    - toxicity filtering
+    - duplicate removal
+    - language detection filtering (English)
+    - anonymization
+    - rephrasing
+- Datasets used:
+    - CalebE new_mental_health_conversations.
+    - HOPE dataset from https://paperswithcode.com/paper/speaker-and-time-aware-joint-contextual
+    - Intents Mental Health Conversation Data: https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data
+    - jerryjalapeno/nart-100k-synthetic
+    - NLP Mental Health Conversations: https://www.kaggle.com/datasets/thedevastator/nlp-mental-health-conversations
+    - Gragroo/psyV0 dataset for psychology
+    - Stanford Enigma Philosophy Chat https://huggingface.co/datasets/Heigke/stanford-enigma-philosophy-chat
